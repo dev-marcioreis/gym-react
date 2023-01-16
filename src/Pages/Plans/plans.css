@@ -1,0 +1,54 @@
+.plans__container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 3rem;
+}
+.plan h3 {
+    font-size: 1.5rem;
+    color: var(--secondary-color);
+}
+.plan small {
+    margin-block-end: 2rem;
+}
+.plan h1 {
+    display: inline;
+    color: var(--primary-color);
+    font-size: 2rem;
+}
+.plan h4 {
+    margin-block-start: 1rem;
+    margin-block-end: 1rem;
+    font-size: 1.5rem;
+    color: var(--white-color);
+}
+.plan p {
+    line-height: 1.8;
+}
+.plan p.disabled {
+    color: var(--gray-color-400);
+}
+.plan button {
+    margin-block-start: 2rem;
+    cursor: pointer;
+    background: var(--gray-color-600);
+}
+
+
+/*==========Media Query==========*/
+@media (max-width: 1024px) {
+    .plans__container {
+        grid-template-columns: 1fr 1fr;
+        gap: 2rem;
+    }
+}
+
+
+@media (max-width: 600px) {
+    .plans__container {
+        grid-template-columns: 1fr;
+    }
+    .plan {
+        width: 90%;
+        margin-inline: auto;
+    }
+}

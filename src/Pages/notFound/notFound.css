@@ -1,0 +1,29 @@
+.notfound__container {
+    text-align: center;
+}
+.notfound__container .btn {
+    display: inline-block;
+    margin-block-start: 1rem;
+}
+.notfound__container img {
+    margin: auto;
+    width: 35%;
+}
+
+
+/*==========Media Query==========*/
+@media (max-width: 1024px) {
+    .notfound__container img {
+        width: 70%;
+    }
+}
+
+
+@media (max-width: 600px) {
+    .notfound__container {
+        padding-block-start: 3rem;
+    }
+    .notfound__container img {
+        width: 90%;
+    }
+}
