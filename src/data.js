@@ -4,7 +4,7 @@ import { CgGym } from 'react-icons/cg'
 export const links = [
     {
         name: "Home",
-        path: '/gym'
+        path: '/'
     },
     {
         name: "Sobre",
