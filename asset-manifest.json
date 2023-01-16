@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/gym-react/static/css/main.b4636a2e.css",
-    "main.js": "/gym-react/static/js/main.16239c0c.js",
+    "main.js": "/gym-react/static/js/main.e10ca45e.js",
     "static/media/header_3.png": "/gym-react/static/media/header_3.fb05b96f45f93aae7f5d.png",
     "static/media/gallery4.jpg": "/gym-react/static/media/gallery4.68ea25ebe026fd4d3b49.jpg",
     "static/media/header-img.png": "/gym-react/static/media/header-img.4e2c4cefe506cf70fdb8.png",
@@ -27,10 +27,10 @@
     "static/media/notfound.png": "/gym-react/static/media/notfound.a3401542a051a40cc8eb.png",
     "index.html": "/gym-react/index.html",
     "main.b4636a2e.css.map": "/gym-react/static/css/main.b4636a2e.css.map",
-    "main.16239c0c.js.map": "/gym-react/static/js/main.16239c0c.js.map"
+    "main.e10ca45e.js.map": "/gym-react/static/js/main.e10ca45e.js.map"
   },
   "entrypoints": [
     "static/css/main.b4636a2e.css",
-    "static/js/main.16239c0c.js"
+    "static/js/main.e10ca45e.js"
   ]
 }
