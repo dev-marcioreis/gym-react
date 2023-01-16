@@ -1,6 +1,14 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+React 18 <br>
+React Router 6 <br>
+React Icons <br>
+Use Components <br>
+Hooks <br>
+CSS Transitions <br>
+CSS Animations <br>
+CSS Variables <br>
 
 ## Available Scripts
 
