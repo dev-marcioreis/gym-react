@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Gym
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 React 18 <br>
@@ -18,6 +18,8 @@ Link de acesso: https://dev-marcioreis.github.io/gym-react/
 ![image](https://user-images.githubusercontent.com/107413382/210086101-8197587b-8c93-4d59-bf56-35142aabc6b5.png)
 
 ## Available Scripts
+
+Getting Started with Create React App
 
 In the project directory, you can run:
 
