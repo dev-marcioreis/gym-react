@@ -1,6 +1,5 @@
 # Gym (ReactJS)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 React 18 <br>
 React Router 6 <br>
 React Icons <br>
