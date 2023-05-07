@@ -7,7 +7,7 @@ Este projeto é uma página para academias.
 ## 🚀 Finalizado!
 
 ## 📋 Tecnologias
-React + React Router 6 + React Icons + Use Components + Hooks + CSS Transitions + CSS Animations + CSS Variables
+React + React Router 6 + React Icons + Use Components + Hooks + CSS
 
 ## ✒️ Autor
 Márcio Reis
