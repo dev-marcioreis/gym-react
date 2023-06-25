@@ -2,7 +2,7 @@
 
 ---
 
-Este projeto é uma página para academias.
+Este projeto é uma página para academias que foi desenvolvido para um cliente.
 
 ## 🚀 Finalizado!
 
